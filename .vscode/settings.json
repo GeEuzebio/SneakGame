@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\georg\\Desktop\\Estudo de Java\\SneakGame\\jnativehook\\jnativehook-2.1.0.jar"
+    ]
+}
